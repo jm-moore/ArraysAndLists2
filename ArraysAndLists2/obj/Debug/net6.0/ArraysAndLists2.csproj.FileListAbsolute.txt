@@ -1,0 +1,15 @@
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ArraysAndLists2.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ArraysAndLists2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ArraysAndLists2.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ArraysAndLists2.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ArraysAndLists2.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\bin\Debug\net6.0\ArraysAndLists2.exe
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\bin\Debug\net6.0\ArraysAndLists2.deps.json
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\bin\Debug\net6.0\ArraysAndLists2.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\bin\Debug\net6.0\ArraysAndLists2.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\bin\Debug\net6.0\ArraysAndLists2.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ArraysAndLists2.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\refint\ArraysAndLists2.dll
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ArraysAndLists2.pdb
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ArraysAndLists2.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\Repos\ArraysAndLists2\ArraysAndLists2\obj\Debug\net6.0\ref\ArraysAndLists2.dll
